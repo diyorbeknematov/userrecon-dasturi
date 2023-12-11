@@ -1,6 +1,5 @@
 # UserRecon v1.0
-# Author: @thelinuxchoice
-# https://github.com/thelinuxchoice/userrecon
+
 
 # Some of "Found!" result is wrong/incorrect
 Edit "grep -o 'sometexthere' ; echo $?" to fix the problem
